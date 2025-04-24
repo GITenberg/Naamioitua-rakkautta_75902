@@ -1,0 +1,35 @@
+_repo: Naamioitua-rakkautta_75902
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+    - https://en.wikipedia.org/wiki/Honor%C3%A9_de_Balzac
+description: ''
+gutenberg_issued: '2025-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75902'
+language: fi
+pgterms:marc905: 20241202235629balz
+pgterms:marc906: '1915'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aPori :$bOtto Andersin, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Naamioitua rakkautta
+url: http://www.gutenberg.org/ebooks/75902
